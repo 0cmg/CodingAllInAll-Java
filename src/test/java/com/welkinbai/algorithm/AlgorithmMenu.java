@@ -14,7 +14,7 @@ import com.welkinbai.algorithm.sort.SortAlgorithm;
  */
 public class AlgorithmMenu {
 
-    private SortAlgorithm StraightInsertionSorting;
+    private SortAlgorithm insertionSorting;
 
 
 }
